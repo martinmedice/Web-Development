@@ -1,0 +1,41 @@
+#principal{
+    width: 900px;
+}
+
+#menu{
+    background-color: #c2c5b2;
+    padding: 15px;
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#conteudo{
+    background-color: #e8e8d9;
+    padding: 10px;
+}
+
+#rodape{
+    text-align: center;
+    padding:15px;
+    font: bold 16px Arial, Helvetica, sans-serif;
+}
+
+.imagens{
+    border: 10px #828271 solid;
+}
+
+body{
+    background: url(images/fundo.png);
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+h1{
+    color: #828271;
+    font: bold 19px Arial, Helvetica, sans-serif;
+}
